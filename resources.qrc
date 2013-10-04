@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>helloworld.qml</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>bluebubble.svg</file>
+    </qresource>
+</RCC>
