@@ -1,6 +1,9 @@
 import QtQuick 1.1
 
-Rectangle {
-    width: 100
-    height: 62
+
+Image {
+    id: bubble
+//    source: "qrc:/img/bluebubble.svg"
+    source: "qrc:/img/ANDROID.png"
+    smooth: true
 }

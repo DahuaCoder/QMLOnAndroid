@@ -1,8 +1,11 @@
 <RCC>
     <qresource prefix="/qml">
         <file>helloworld.qml</file>
+        <file>accelbubble.qml</file>
     </qresource>
     <qresource prefix="/img">
         <file>bluebubble.svg</file>
+        <file>battery_low.svg</file>
+        <file>ANDROID.png</file>
     </qresource>
 </RCC>

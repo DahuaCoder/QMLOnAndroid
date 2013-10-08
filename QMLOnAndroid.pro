@@ -14,7 +14,7 @@ SOURCES += main.cpp mainwindow.cpp
 HEADERS += mainwindow.h
 FORMS += mainwindow.ui
 
-QT += declarative
+QT += declarative svg xml gui core
 
 # Please do not modify the following two lines. Required for deployment.
 include(deployment.pri)
@@ -55,7 +55,6 @@ OTHER_FILES += \
     android/src/org/kde/necessitas/ministro/IMinistro.aidl \
     android/AndroidManifest.xml \
     helloworld.qml \
-    qml/helloworld.qml \
     accelbubble.qml
 
 RESOURCES += \
